@@ -1,4 +1,14 @@
 {
-  "updatedAt": "2025-08-12T21:55:21.076051",
-  "items": []
+  "updatedAt": "2025-08-13T09:00:00Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "테스트 앱",
+      "artist": "테스트 회사",
+      "category": "유틸리티",
+      "url": "#",
+      "icon": "",
+      "price": "무료"
+    }
+  ]
 }
