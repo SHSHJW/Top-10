@@ -1,0 +1,15 @@
+{
+  "updatedAt": "2025-08-17T08:30:00Z",
+  "items": [
+    { "rank": 1, "title": "올림픽", "category": "스포츠", "icon": "placeholder.png" },
+    { "rank": 2, "title": "날씨", "category": "날씨", "icon": "placeholder.png" },
+    { "rank": 3, "title": "아이폰 15", "category": "테크", "icon": "placeholder.png" },
+    { "rank": 4, "title": "주식 시황", "category": "경제", "icon": "placeholder.png" },
+    { "rank": 5, "title": "로또", "category": "엔터테인먼트", "icon": "placeholder.png" },
+    { "rank": 6, "title": "여행지 추천", "category": "여행", "icon": "placeholder.png" },
+    { "rank": 7, "title": "드라마 시청률", "category": "엔터테인먼트", "icon": "placeholder.png" },
+    { "rank": 8, "title": "금리 인상", "category": "경제", "icon": "placeholder.png" },
+    { "rank": 9, "title": "인플루엔자", "category": "건강", "icon": "placeholder.png" },
+    { "rank": 10, "title": "주말 나들이", "category": "여행", "icon": "placeholder.png" }
+  ]
+}

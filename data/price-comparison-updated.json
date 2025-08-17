@@ -1,0 +1,145 @@
+{
+  "updatedAt": "2025-08-17T08:30:00Z",
+  "items": [
+    {
+      "keyword": "풀",
+      "name": "목공용 풀 250ml",
+      "site": "쿠팡",
+      "price": 2000,
+      "shipping": 2500,
+      "currency": "KRW",
+      "delivery": "1~2일",
+      "url": "#"
+    },
+    {
+      "keyword": "풀",
+      "name": "백묵 10g",
+      "site": "다이소몰",
+      "price": 1000,
+      "shipping": 3000,
+      "currency": "KRW",
+      "delivery": "1~3일",
+      "url": "#"
+    },
+    {
+      "keyword": "풀",
+      "name": "대용량 풀 (1kg)",
+      "site": "Taobao",
+      "price": 15,
+      "shipping": 20,
+      "currency": "CNY",
+      "delivery": "7~10일",
+      "url": "#"
+    },
+    {
+      "keyword": "풀",
+      "name": "강화 접착풀",
+      "site": "JD.com",
+      "price": 12,
+      "shipping": 18,
+      "currency": "CNY",
+      "delivery": "5~7일",
+      "url": "#"
+    },
+    {
+      "keyword": "풀",
+      "name": "학생용 막대 풀 세트",
+      "site": "Tmall",
+      "price": 18,
+      "shipping": 25,
+      "currency": "CNY",
+      "delivery": "6~8일",
+      "url": "#"
+    },
+    {
+      "keyword": "노트북",
+      "name": "삼성 갤럭시북3 15",
+      "site": "쿠팡",
+      "price": 1200000,
+      "shipping": 0,
+      "currency": "KRW",
+      "delivery": "1~2일",
+      "url": "#"
+    },
+    {
+      "keyword": "노트북",
+      "name": "LG 그램 14",
+      "site": "네이버쇼핑",
+      "price": 1350000,
+      "shipping": 3000,
+      "currency": "KRW",
+      "delivery": "1~3일",
+      "url": "#"
+    },
+    {
+      "keyword": "노트북",
+      "name": "레노버 아이디어패드 3",
+      "site": "옥션",
+      "price": 850000,
+      "shipping": 2500,
+      "currency": "KRW",
+      "delivery": "2~3일",
+      "url": "#"
+    },
+    {
+      "keyword": "노트북",
+      "name": "삼성 갤럭시북3 15",
+      "site": "Taobao",
+      "price": 5500,
+      "shipping": 400,
+      "currency": "CNY",
+      "delivery": "7~10일",
+      "url": "#"
+    },
+    {
+      "keyword": "노트북",
+      "name": "레노버 Xiaoxin Pro 14",
+      "site": "JD.com",
+      "price": 4800,
+      "shipping": 200,
+      "currency": "CNY",
+      "delivery": "5~7일",
+      "url": "#"
+    },
+    {
+      "keyword": "노트북",
+      "name": "Apple 맥북 에어 M2",
+      "site": "11번가",
+      "price": 1650000,
+      "shipping": 0,
+      "currency": "KRW",
+      "delivery": "1~3일",
+      "url": "#"
+    },
+    {
+      "keyword": "노트북",
+      "name": "ASUS 비보북",
+      "site": "Pinduoduo",
+      "price": 4200,
+      "shipping": 300,
+      "currency": "CNY",
+      "delivery": "7~9일",
+      "url": "#"
+    },
+    {
+      "keyword": "노트북",
+      "name": "HP 파빌리온",
+      "site": "G마켓",
+      "price": 950000,
+      "shipping": 3500,
+      "currency": "KRW",
+      "delivery": "2~4일",
+      "url": "#"
+    },
+    {
+      "keyword": "노트북",
+      "name": "Lenovo 아이디어패드 Slim 5",
+      "site": "Suning",
+      "price": 5000,
+      "shipping": 250,
+      "currency": "CNY",
+      "delivery": "6~9일",
+      "url": "#"
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "updatedAt": "2025-08-17T00:00:00Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "KakaoTalk",
+      "artist": "Kakao Corp.",
+      "category": "Social Networking",
+      "url": "https://apps.apple.com/kr/app/kakaotalk/id362057947",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
+      "title": "Instagram",
+      "artist": "Instagram, Inc.",
+      "category": "Photo & Video",
+      "url": "https://apps.apple.com/kr/app/instagram/id389801252",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "YouTube",
+      "artist": "Google LLC",
+      "category": "Photo & Video",
+      "url": "https://apps.apple.com/kr/app/youtube/id544007664",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "네이버",
+      "artist": "NAVER Corp.",
+      "category": "Search",
+      "url": "https://apps.apple.com/kr/app/naver/id393499958",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "배달의민족",
+      "artist": "Woowa Bros Co.,Ltd.",
+      "category": "Food & Drink",
+      "url": "https://apps.apple.com/kr/app/baedal-minjok/id378701386",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "쿠팡",
+      "artist": "Coupang Corp.",
+      "category": "Shopping",
+      "url": "https://apps.apple.com/kr/app/coupang-%EC%BF%A0%ED%8C%A1/id409807569",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "Toss",
+      "artist": "Viva Republica",
+      "category": "Finance",
+      "url": "https://apps.apple.com/kr/app/toss/id839333328",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "지니뮤직",
+      "artist": "KT MUSIC Corporation",
+      "category": "Music",
+      "url": "https://apps.apple.com/kr/app/genie/id416751772",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "멜론",
+      "artist": "Kakao Entertainment Corp.",
+      "category": "Music",
+      "url": "https://apps.apple.com/kr/app/melon/id415597317",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "당근마켓",
+      "artist": "Danggeun Market Inc.",
+      "category": "Shopping",
+      "url": "https://apps.apple.com/kr/app/daangn-market/id1018769995",
+      "icon": "placeholder.png",
+      "price": "무료"
+    }
+  ]
+}
