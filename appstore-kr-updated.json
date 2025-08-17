@@ -1,0 +1,95 @@
+{
+  "updatedAt": "2025-08-17T10:00:00Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "KakaoTalk",
+      "artist": "Kakao Corp.",
+      "category": "Social Networking",
+      "url": "https://apps.apple.com/kr/app/kakaotalk/id362057947",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
+      "title": "Instagram",
+      "artist": "Instagram, Inc.",
+      "category": "Photo & Video",
+      "url": "https://apps.apple.com/kr/app/instagram/id389801252",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "YouTube",
+      "artist": "Google LLC",
+      "category": "Photo & Video",
+      "url": "https://apps.apple.com/kr/app/youtube/id544007664",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "네이버",
+      "artist": "NAVER Corp.",
+      "category": "Search",
+      "url": "https://apps.apple.com/kr/app/네이버/id393499958",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "배달의민족",
+      "artist": "Woowa Bros Co.,Ltd.",
+      "category": "Food & Drink",
+      "url": "https://apps.apple.com/kr/app/배달의민족/id378084485",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "토스",
+      "artist": "Viva Republica",
+      "category": "Finance",
+      "url": "https://apps.apple.com/kr/app/토스/id839333328",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "쿠팡",
+      "artist": "Coupang Corp.",
+      "category": "Shopping",
+      "url": "https://apps.apple.com/kr/app/쿠팡/id504698453",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "TikTok",
+      "artist": "TikTok Ltd.",
+      "category": "Entertainment",
+      "url": "https://apps.apple.com/kr/app/tiktok/id835599320",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "카카오맵",
+      "artist": "Kakao Corp.",
+      "category": "Navigation",
+      "url": "https://apps.apple.com/kr/app/카카오맵/id304608425",
+      "icon": "placeholder.png",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "Toss",
+      "artist": "Viva Republica",
+      "category": "Finance",
+      "url": "https://apps.apple.com/kr/app/toss/id839333328",
+      "icon": "placeholder.png",
+      "price": "무료"
+    }
+  ]
+}

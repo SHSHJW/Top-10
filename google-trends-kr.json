@@ -1,0 +1,75 @@
+{
+  "updatedAt": "2025-08-17T10:30:00Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "올림픽",
+      "category": "스포츠",
+      "url": "https://www.google.com/search?q=올림픽",
+      "icon": "placeholder.png"
+    },
+    {
+      "rank": 2,
+      "title": "날씨",
+      "category": "날씨",
+      "url": "https://www.google.com/search?q=날씨",
+      "icon": "placeholder.png"
+    },
+    {
+      "rank": 3,
+      "title": "아이폰 15",
+      "category": "테크",
+      "url": "https://www.google.com/search?q=아이폰+15",
+      "icon": "placeholder.png"
+    },
+    {
+      "rank": 4,
+      "title": "주식 시황",
+      "category": "경제",
+      "url": "https://www.google.com/search?q=주식+시황",
+      "icon": "placeholder.png"
+    },
+    {
+      "rank": 5,
+      "title": "로또",
+      "category": "엔터테인먼트",
+      "url": "https://www.google.com/search?q=로또",
+      "icon": "placeholder.png"
+    },
+    {
+      "rank": 6,
+      "title": "여행지 추천",
+      "category": "여행",
+      "url": "https://www.google.com/search?q=여행지+추천",
+      "icon": "placeholder.png"
+    },
+    {
+      "rank": 7,
+      "title": "코로나19",
+      "category": "건강",
+      "url": "https://www.google.com/search?q=코로나19",
+      "icon": "placeholder.png"
+    },
+    {
+      "rank": 8,
+      "title": "영화 순위",
+      "category": "엔터테인먼트",
+      "url": "https://www.google.com/search?q=영화+순위",
+      "icon": "placeholder.png"
+    },
+    {
+      "rank": 9,
+      "title": "축구 경기 일정",
+      "category": "스포츠",
+      "url": "https://www.google.com/search?q=축구+경기+일정",
+      "icon": "placeholder.png"
+    },
+    {
+      "rank": 10,
+      "title": "제주도 여행",
+      "category": "여행",
+      "url": "https://www.google.com/search?q=제주도+여행",
+      "icon": "placeholder.png"
+    }
+  ]
+}

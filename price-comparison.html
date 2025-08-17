@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>쇼핑 가격 비교</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-slate-800">
+  <header class="sticky top-0 z-10 bg-white/80 backdrop-blur border-b border-slate-200">
+    <div class="max-w-5xl mx-auto px-4 py-4 flex items-center justify-between">
+      <h1 class="text-2xl sm:text-3xl font-bold">가격 비교</h1>
+      <input id="search" type="text" placeholder="상품을 검색하세요…" class="border rounded-lg p-2 text-sm w-48 sm:w-64" />
+    </div>
+  </header>
+  <main class="max-w-5xl mx-auto p-4">
+    <table class="min-w-full divide-y divide-slate-200" id="resultsTable">
+      <thead class="bg-slate-50">
+        <tr>
+          <th class="px-3 py-2 text-left text-xs font-medium text-slate-500 uppercase tracking-wider">사이트</th>
+          <th class="px-3 py-2 text-left text-xs font-medium text-slate-500 uppercase tracking-wider">상품명</th>
+          <th class="px-3 py-2 text-right text-xs font-medium text-slate-500 uppercase tracking-wider">가격</th>
+          <th class="px-3 py-2 text-right text-xs font-medium text-slate-500 uppercase tracking-wider">배송비</th>
+          <th class="px-3 py-2 text-right text-xs font-medium text-slate-500 uppercase tracking-wider">총 합계</th>
+          <th class="px-3 py-2 text-center text-xs font-medium text-slate-500 uppercase tracking-wider">배송기간</th>
+        </tr>
+      </thead>
+      <tbody class="bg-white divide-y divide-slate-100" id="resultsBody"></tbody>
+    </table>
+    <p id="noResults" class="mt-4 text-center text-slate-500 hidden">검색 결과가 없습니다.</p>
+  </main>
+  <script>
+    let items = [];
+    async function load() {
+      const res = await fetch('./data/price-comparison.json', { cache: 'no-store' });
+      if (res.ok) {
+        const data = await res.json();
+        items = data.items || [];
+        render();
+      }
+    }
+    function render() {
+      const tbody = document.getElementById('resultsBody');
+      const searchVal = document.getElementById('search').value.trim();
+      tbody.innerHTML = '';
+      let filtered = items;
+      if (searchVal) {
+        filtered = items.filter(it => it.name.includes(searchVal) || (it.keyword && it.keyword.includes(searchVal)));
+      }
+      if (filtered.length === 0) {
+        document.getElementById('noResults').classList.remove('hidden');
+        return;
+      }
+      document.getElementById('noResults').classList.add('hidden');
+      filtered.forEach(it => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td class="px-3 py-2 whitespace-nowrap text-sm">${it.site}</td>
+          <td class="px-3 py-2 whitespace-nowrap text-sm truncate max-w-xs">${it.name}</td>
+          <td class="px-3 py-2 whitespace-nowrap text-sm text-right">${it.currency === 'CNY' ? '¥' + it.price : it.price.toLocaleString('ko-KR') + '₩'}</td>
+          <td class="px-3 py-2 whitespace-nowrap text-sm text-right">${it.currency === 'CNY' ? '¥' + it.shipping : it.shipping.toLocaleString('ko-KR') + '₩'}</td>
+          <td class="px-3 py-2 whitespace-nowrap text-sm text-right">${it.currency === 'CNY' ? '¥' + (it.price + it.shipping) : (it.price + it.shipping).toLocaleString('ko-KR') + '₩'}</td>
+          <td class="px-3 py-2 whitespace-nowrap text-sm text-center">${it.delivery}</td>`;
+        tbody.appendChild(tr);
+      });
+    }
+    document.getElementById('search').addEventListener('input', () => render());
+    load();
+  </script>
+</body>
+</html>

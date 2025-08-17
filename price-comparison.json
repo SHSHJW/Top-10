@@ -1,0 +1,65 @@
+{
+  "updatedAt": "2025-08-17T10:35:00Z",
+  "items": [
+    {
+      "keyword": "풀",
+      "name": "목공용 풀 250ml",
+      "site": "쿠팡",
+      "price": 2000,
+      "shipping": 2500,
+      "currency": "KRW",
+      "delivery": "1-2일",
+      "url": "#"
+    },
+    {
+      "keyword": "풀",
+      "name": "딱풀 10g",
+      "site": "네이버쇼핑",
+      "price": 1000,
+      "shipping": 3000,
+      "currency": "KRW",
+      "delivery": "1-3일",
+      "url": "#"
+    },
+    {
+      "keyword": "풀",
+      "name": "사무용 일반 풀",
+      "site": "11번가",
+      "price": 1500,
+      "shipping": 3000,
+      "currency": "KRW",
+      "delivery": "2-3일",
+      "url": "#"
+    },
+    {
+      "keyword": "풀",
+      "name": "목공용 풀 (대용량)",
+      "site": "Taobao",
+      "price": 15,
+      "shipping": 20,
+      "currency": "CNY",
+      "delivery": "7-10일",
+      "url": "#"
+    },
+    {
+      "keyword": "풀",
+      "name": "강력 접착풀",
+      "site": "JD.com",
+      "price": 12,
+      "shipping": 18,
+      "currency": "CNY",
+      "delivery": "5-7일",
+      "url": "#"
+    },
+    {
+      "keyword": "풀",
+      "name": "학생용 딱풀 세트",
+      "site": "TMall",
+      "price": 18,
+      "shipping": 25,
+      "currency": "CNY",
+      "delivery": "6-8일",
+      "url": "#"
+    }
+  ]
+}
