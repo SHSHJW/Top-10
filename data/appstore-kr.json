@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2025-08-17T10:00:00Z",
+  "updatedAt": "2025-08-17T18:00:00Z",
   "items": [
     {
       "rank": 1,
@@ -7,7 +7,7 @@
       "artist": "Kakao Corp.",
       "category": "Social Networking",
       "url": "https://apps.apple.com/kr/app/id362057947",
-      "icon": "",
+      "icon": "https://via.placeholder.com/64?text=K",
       "price": "무료"
     },
     {
@@ -16,7 +16,7 @@
       "artist": "Instagram, Inc.",
       "category": "Photo & Video",
       "url": "https://apps.apple.com/kr/app/id389801252",
-      "icon": "",
+      "icon": "https://via.placeholder.com/64?text=I",
       "price": "무료"
     },
     {
@@ -25,7 +25,7 @@
       "artist": "Google LLC",
       "category": "Photo & Video",
       "url": "https://apps.apple.com/kr/app/id544007664",
-      "icon": "",
+      "icon": "https://via.placeholder.com/64?text=Y",
       "price": "무료"
     },
     {
@@ -33,35 +33,35 @@
       "title": "네이버",
       "artist": "NAVER Corp.",
       "category": "Search",
-      "url": "https://apps.apple.com/kr/app/id393499958",
-      "icon": "",
+      "url": "https://apps.apple.com/kr/app/id304608425",
+      "icon": "https://via.placeholder.com/64?text=네",
       "price": "무료"
     },
     {
       "rank": 5,
-      "title": "배달의민족",
+      "title": "배다의민족",
       "artist": "Woowa Bros Co.,Ltd.",
       "category": "Food & Drink",
-      "url": "https://apps.apple.com/kr/app/id378084485",
-      "icon": "",
+      "url": "https://apps.apple.com/kr/app/id378085783",
+      "icon": "https://via.placeholder.com/64?text=배",
       "price": "무료"
     },
     {
       "rank": 6,
-      "title": "Coupang",
-      "artist": "Coupang Corp.",
-      "category": "Shopping",
-      "url": "https://apps.apple.com/kr/app/id535795811",
-      "icon": "",
+      "title": "토스",
+      "artist": "Viva Republica",
+      "category": "Finance",
+      "url": "https://apps.apple.com/kr/app/id839599320",
+      "icon": "https://via.placeholder.com/64?text=토",
       "price": "무료"
     },
     {
       "rank": 7,
-      "title": "Among Us!",
-      "artist": "InnerSloth LLC",
-      "category": "Games",
-      "url": "https://apps.apple.com/kr/app/id1351168404",
-      "icon": "",
+      "title": "쿠팔",
+      "artist": "Coupang Corp.",
+      "category": "Shopping",
+      "url": "https://apps.apple.com/kr/app/id353236125",
+      "icon": "https://via.placeholder.com/64?text=쿠",
       "price": "무료"
     },
     {
@@ -70,7 +70,7 @@
       "artist": "TikTok Ltd.",
       "category": "Entertainment",
       "url": "https://apps.apple.com/kr/app/id835599320",
-      "icon": "",
+      "icon": "https://via.placeholder.com/64?text=T",
       "price": "무료"
     },
     {
@@ -79,16 +79,16 @@
       "artist": "Kakao Corp.",
       "category": "Navigation",
       "url": "https://apps.apple.com/kr/app/id304608425",
-      "icon": "",
+      "icon": "https://via.placeholder.com/64?text=K",
       "price": "무료"
     },
     {
       "rank": 10,
-      "title": "토스",
+      "title": "Toss",
       "artist": "Viva Republica",
       "category": "Finance",
-      "url": "https://apps.apple.com/kr/app/id835933352",
-      "icon": "",
+      "url": "https://apps.apple.com/kr/app/id839533352",
+      "icon": "https://via.placeholder.com/64?text=T",
       "price": "무료"
     }
   ]
