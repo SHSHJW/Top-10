@@ -1,4 +1,95 @@
 {
-  "updatedAt": "2025-08-13T00:00:00Z",
-  "items": []
+  "updatedAt": "2025-08-17T10:00:00Z",
+  "items": [
+    {
+      "rank": 1,
+      "title": "KakaoTalk",
+      "artist": "Kakao Corp.",
+      "category": "Social Networking",
+      "url": "https://apps.apple.com/kr/app/id362057947",
+      "icon": "",
+      "price": "무료"
+    },
+    {
+      "rank": 2,
+      "title": "Instagram",
+      "artist": "Instagram, Inc.",
+      "category": "Photo & Video",
+      "url": "https://apps.apple.com/kr/app/id389801252",
+      "icon": "",
+      "price": "무료"
+    },
+    {
+      "rank": 3,
+      "title": "YouTube",
+      "artist": "Google LLC",
+      "category": "Photo & Video",
+      "url": "https://apps.apple.com/kr/app/id544007664",
+      "icon": "",
+      "price": "무료"
+    },
+    {
+      "rank": 4,
+      "title": "네이버",
+      "artist": "NAVER Corp.",
+      "category": "Search",
+      "url": "https://apps.apple.com/kr/app/id393499958",
+      "icon": "",
+      "price": "무료"
+    },
+    {
+      "rank": 5,
+      "title": "배달의민족",
+      "artist": "Woowa Bros Co.,Ltd.",
+      "category": "Food & Drink",
+      "url": "https://apps.apple.com/kr/app/id378084485",
+      "icon": "",
+      "price": "무료"
+    },
+    {
+      "rank": 6,
+      "title": "Coupang",
+      "artist": "Coupang Corp.",
+      "category": "Shopping",
+      "url": "https://apps.apple.com/kr/app/id535795811",
+      "icon": "",
+      "price": "무료"
+    },
+    {
+      "rank": 7,
+      "title": "Among Us!",
+      "artist": "InnerSloth LLC",
+      "category": "Games",
+      "url": "https://apps.apple.com/kr/app/id1351168404",
+      "icon": "",
+      "price": "무료"
+    },
+    {
+      "rank": 8,
+      "title": "TikTok",
+      "artist": "TikTok Ltd.",
+      "category": "Entertainment",
+      "url": "https://apps.apple.com/kr/app/id835599320",
+      "icon": "",
+      "price": "무료"
+    },
+    {
+      "rank": 9,
+      "title": "KakaoMap",
+      "artist": "Kakao Corp.",
+      "category": "Navigation",
+      "url": "https://apps.apple.com/kr/app/id304608425",
+      "icon": "",
+      "price": "무료"
+    },
+    {
+      "rank": 10,
+      "title": "토스",
+      "artist": "Viva Republica",
+      "category": "Finance",
+      "url": "https://apps.apple.com/kr/app/id835933352",
+      "icon": "",
+      "price": "무료"
+    }
+  ]
 }
